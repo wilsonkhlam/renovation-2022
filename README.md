@@ -42,7 +42,8 @@
 
 ## 弱電設計<a name="datacabling"></a>
 
-
+  // Work in progress
+  ![](./images/Connectivity-3.0.png)
 
 ## 書房(BR1)<a name="br1"></a>
 
