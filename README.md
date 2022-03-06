@@ -11,6 +11,23 @@
 
 ![](./images/structural_plan.png)
 
+## 家電
+
+- 雪櫃
+    - Mitsubishi 三菱 MR-C46C 三門雪櫃
+    - 外型尺寸(亳米)
+        - 高	  1798
+        - 闊	  600
+        - 深	  666
+    ![](./images/fridge.jpeg)
+
+- 電腦機櫃(待定)
+    - [SharkRack S3-66009](https://detail.tmall.com/item.htm?id=644104705620&ali_trackid=2:mm_1544500114_2165950113_111725950422:1646579126_157_696542815&union_lens=lensId:TAPI@1646579060@21334aca_085e_17f5fc28eb5_5cf6@01;recoveryid:1646579126_157_696542815&spm=a21wu.12321156-tw.rate-area.1&ak=33360074&bxsign=tbkbSJm/bywxgEupFv%20/81GIQ2Ph2ms0yDSk9MIj6zOOhry3Re64/tIkI7PHeqA0gZyu9rcASPYjyead4jHHsqItzTao%20z0hg8AykLLHNyCzHU=&skuId=4808815786406)
+    - 尺寸(亳米)
+        - 高	  540
+        - 闊	  600
+        - 深	  450
+    ![](./images/server_rack.jpeg)
 
 ## 智能電掣<a name="smartswitch"></a>
 
@@ -23,6 +40,8 @@
   - 網關設於書房(BR1)
 
 ## 弱電設計<a name="datacabling"></a>
+
+
 
 ## 書房(BR1)<a name="br1"></a>
 
