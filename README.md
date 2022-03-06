@@ -2,16 +2,17 @@
 
 # 目錄
 1. [圖則](#building_plans)
-2. [智能電掣](#smartswitch)
-3. [弱電設計](#datacabling)
-3. [書房(BR1)](#br1)
+2. [家電](#appliances)
+3. [智能電掣](#smartswitch)
+4. [弱電設計](#datacabling)
+5. [書房(BR1)](#br1)
 
 ## 圖則<a name="building_plans"></a>
 ![](./images/RA_medium_size.png)
 
 ![](./images/structural_plan.png)
 
-## 家電
+## 家電<a name="appliances"></a>
 
 - 雪櫃
     - Mitsubishi 三菱 MR-C46C 三門雪櫃
