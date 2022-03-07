@@ -16,7 +16,7 @@
 
 - 雪櫃
     - Mitsubishi 三菱 MR-C46C 三門雪櫃
-    - 外型尺寸(亳米)
+    - 外型尺寸(亳米)[]
         - 高	  1798
         - 闊	  600
         - 深	  666
@@ -34,7 +34,9 @@
 
 
 - 牆壁開關
-  - Aqara 智能牆壁開關 E1
+  - 型號
+    - 1-2鍵：[Aqara 智能牆壁開關 E1](https://www.aqara.com/cn/productDetail/smart-wall-switch-e1)
+    - 3鍵：[Aqara 智能牆壁開關 D1](https://www.aqara.com/cn/productDetail/d12) ** 厚度較高 **
   - 使用Zigbee協議，無需使用Wifi網絡
   - 單火版（沒有零線）的限制：不能作訊號中繼。零火版（有零線）則可以。
   ![](./images/zigbee-01.png)
@@ -42,7 +44,21 @@
 
 ## 弱電設計<a name="datacabling"></a>
 
+### 音響
+
+- 電視和梳化之間穿surround喇叭綫嘅位。一個位，兩條25喉。
+
+### 網線
+
+- 光籤
+  - 寬頻
+  - LAN
+  - KVM
+
+
+
   // Work in progress
+  ![](./images/network_wall_wiring.png)
   ![](./images/Connectivity-3.0.png)
 
 ## 書房(BR1)<a name="br1"></a>
