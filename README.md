@@ -1,12 +1,16 @@
 # 2022 裝修
 
 # 目錄
+
 1. [圖則](#building_plans)
 1. [油漆](#paint)
-2. [家電](#appliances)
-3. [智能電掣](#smartswitch)
-4. [弱電設計](#datacabling)
-5. [書房(BR1)](#br1)
+1. [家電](#appliances)
+1. [智能電掣](#smartswitch)
+1. [弱電設計](#datacabling)
+1. [書房(BR1)](#br1)
+1. [改動](#variation)
+
+
 
 ## 圖則<a name="building_plans"></a>
 ![](./images/RA_medium_size.png)
@@ -35,8 +39,12 @@
         - 深	  450
     ![](./images/server_rack.jpeg)
 
-## 智能電掣<a name="smartswitch"></a>
+- 熱水爐
+  - 型號: TGC TRJW221TFQL
+  - 耗電量: 3A
+  ![](./images/TGC-Heater-Current.png)
 
+## 智能電掣<a name="smartswitch"></a>
 
 - 牆壁開關
   - 型號
@@ -63,8 +71,8 @@
 
 
   // Work in progress
-  ![](./images/network_wall_wiring.png)
   ![](./images/Connectivity-3.0.png)
+  ![](./images/through-wall-wire.png)
 
 ## 書房(BR1)<a name="br1"></a>
 
@@ -72,9 +80,6 @@
 ![](./images/BR1-WindowFull.jpg)
 ![](./images/BR1-WindowLeft.jpg)
 ![](./images/BR1-curtain.jpg)
-
-
-
 
 
 
