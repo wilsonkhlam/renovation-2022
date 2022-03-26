@@ -8,9 +8,7 @@
 1. [智能電掣](#smartswitch)
 1. [弱電設計](#datacabling)
 1. [書房(BR1)](#br1)
-1. [改動](#variation)
-
-
+1. [小童房(BR2)](#br2)
 
 ## 圖則<a name="building_plans"></a>
 ![](./images/RA_medium_size.png)
