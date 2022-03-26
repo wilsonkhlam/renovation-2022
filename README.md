@@ -80,6 +80,8 @@
 ![](./images/BR1-WindowFull.jpg)
 ![](./images/BR1-WindowLeft.jpg)
 ![](./images/BR1-curtain.jpg)
+![](./images/BR1-OpenDoor.jpg)
 
-
+## 小童房(BR2)<a name="br2"></a>
+![](./images/BR2-WindowLeft.png)
 
